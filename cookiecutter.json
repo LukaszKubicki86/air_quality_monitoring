@@ -1,0 +1,9 @@
+{
+    "project_slug": "air_quality_monitoring",
+    "project_name": "Platforma do Monitorowania Jakości Powietrza",
+    "author_name": "Twoje Imię",
+    "version": "0.1.0",
+    "description": "Projekt wykorzystujący AI do monitorowania jakości powietrza.",
+    "docker_image_name": "air_quality_monitoring_app",
+    "python_version": "3.8"
+}
